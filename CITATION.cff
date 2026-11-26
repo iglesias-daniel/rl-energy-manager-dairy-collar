@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "Any use of this repository requires citing the article below (CC BY 4.0, see LICENSE)."
+title: "Reinforcement Learning Energy Manager for a Low-Power IoT Collar Worn by Dairy Cows"
+authors:
+  - family-names: Iglesias
+    given-names: Daniel
+    affiliation: Universidad de La Frontera
+  - family-names: Muñoz-Poblete
+    given-names: Carlos
+    affiliation: Universidad de La Frontera
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Energy Manager Based on Reinforcement Learning for a Low-Power IoT Collar Worn by Dairy Cows"
+  authors:
+    - family-names: Iglesias
+      given-names: Daniel
+    - family-names: Muñoz-Poblete
+      given-names: Carlos
+  journal: "IEEE Internet of Things Journal"
+  year: 2025
+  volume: 12
+  issue: 16
+  start: 34374
+  end: 34391
+  doi: "10.1109/JIOT.2025.3577898"
+  url: "https://ieeexplore.ieee.org/document/11028906/"
+references:
+  - type: conference-paper
+    title: "Reinforcement Learning Applied in Energy Management in Wearable IoT with Energy Harvesting"
+    authors:
+      - family-names: Iglesias
+        given-names: Daniel
+      - family-names: Muñoz
+        given-names: Carlos
+    conference:
+      name: "2024 IEEE International Conference on Automation / XXVI Congress of the Chilean Association of Automatic Control (ICA-ACCA)"
+    year: 2024
+    start: 1
+    end: 6
+    url: "https://ieeexplore.ieee.org/document/10766823/"
